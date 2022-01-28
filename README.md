@@ -24,9 +24,10 @@
   <a href="https://www.linkedin.com/in/isaac-alcantara-0a7869223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
- ![Snake animation](https://github.com/isaacalcantara/isaacalcantara/blob/output/github-contribution-grid-snake.svg)
   
 - 🔭 Estou buscando meu primeiro emprego como dev
 - 🌱 Estou estudando Analise e Desenvolvemento de Sistemas
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: não existe um fun fact
+
+   ![Snake animation](https://github.com/isaacalcantara/isaacalcantara/blob/output/github-contribution-grid-snake.svg)
