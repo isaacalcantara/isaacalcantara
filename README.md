@@ -1,4 +1,4 @@
-### Olá 👋 eu sou o Isaac Alcantara
+### 👋 Eu sou Isaac Alcantara!
 
 <div style="display: inline-block">
   <a href="https://github.com/isaacalcantara">
