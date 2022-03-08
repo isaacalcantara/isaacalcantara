@@ -1,14 +1,8 @@
 <H1> Olá pessoal! <H2>
   
  <p style= font-size: 12px> Meu nome é Isaac, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Amo o mundo tech principalmente o desenvolvimento de software, no momneto estou focando em Java </p>
-
-<div style="display: inline-block">
-  <a href="https://github.com/isaacalcantara">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=isaacalcantara&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacalcantara&layout=compact&langs_count=7&theme=dark">
-</div>
   
- <div style="display: inline-block" align="center"><br>
+   <div style="display: inline-block" align="center"><br>
   <img align="center" alt="Isaac-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
    <img align="center" alt="Isaac-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
    <img align="center" alt="Isaac-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -16,6 +10,13 @@
   <img align="center" alt="Isaac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+<div style="display: inline-block">
+  <a href="https://github.com/isaacalcantara">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=isaacalcantara&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacalcantara&layout=compact&langs_count=7&theme=dark">
+</div>
+
   
 ##
   
