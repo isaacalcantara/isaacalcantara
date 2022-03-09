@@ -1,6 +1,6 @@
 <H1> Olá pessoal! <H2>
   
- <p style= font-size: 12px> Meu nome é Isaac, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Amo o mundo tech principalmente o desenvolvimento de software, no momento estou focando em Java </p>
+ <p style= font-size: 12px> Meu nome é Isaac, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Amo o mundo tech principalmente o desenvolvimento de software, no momento estou focando em Java e Java Script </p>
  
 
 <div style="display: inline-block" padding:10>
