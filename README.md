@@ -1,8 +1,12 @@
-<H1> Olá pessoal! <H2> <img align="center" alt="Isaac-Java" height="30" width="40" padding-left='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<H1> Olá pessoal! <H2> 
+ 
+ <div align="center">
+<img align="center" alt="Isaac-Java" height="30" width="40" padding-left='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" alt="Isaac-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 <img align="center" alt="Isaac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Isaac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Isaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Isaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+</div>
  
  <hr>
   
