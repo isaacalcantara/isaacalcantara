@@ -1,8 +1,8 @@
 <H1> Olá pessoal! <H2>
   
- <p style= font-size: 12px> Meu nome é Isaac, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Amo o mundo tech principalmente o desenvolvimento de software, no momento estou focando em Java e Java Script </p>
  
-
+ <hr>
+  
 <div style="display: inline-block" padding:10>
   <a href="https://github.com/isaacalcantara">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=isaacalcantara&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
