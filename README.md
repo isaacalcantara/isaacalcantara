@@ -6,7 +6,7 @@
 <div style="display: inline-block" padding:10>
   <a href="https://github.com/isaacalcantara">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=isaacalcantara&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    <img align="center" alt="Isaac-CSS" height="60" width="40" src="https://i1.wp.com/comodesenharecolorir.com/wp-content/uploads/2020/09/Quais-as-Sensacoes-que-as-Cores-Transmitem.png">
+    <img align="center" alt="Isaac-CSS" height="120" width="80" src="https://i1.wp.com/comodesenharecolorir.com/wp-content/uploads/2020/09/Quais-as-Sensacoes-que-as-Cores-Transmitem.png">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacalcantara&layout=compact&langs_count=7&theme=dark">
 </div>
 
