@@ -1,6 +1,6 @@
 <H1> Olá pessoal! <H2> 
  
- <div align="center">
+ <div align="center" style="display: inline-block">
 <div padding='50'>
 <img align="center" alt="Isaac-Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
