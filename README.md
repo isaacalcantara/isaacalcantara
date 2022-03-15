@@ -6,7 +6,7 @@
 <div style="display: inline-block" padding:10>
   <a href="https://github.com/isaacalcantara">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=isaacalcantara&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    ....
+    <img align="center" alt="Isaac-CSS" height="30" width="40" src="https://www.flaticon.com/br/sticker-premium/programador_5754716?term=programador&page=1&position=8&page=1&position=8&related_id=5754716&origin=search#">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacalcantara&layout=compact&langs_count=7&theme=dark">
 </div>
 
