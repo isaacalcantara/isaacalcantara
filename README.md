@@ -9,6 +9,8 @@
     <img align="center" alt="Isaac-CSS" height="180em" width="150" src="https://i1.wp.com/comodesenharecolorir.com/wp-content/uploads/2020/09/Quais-as-Sensacoes-que-as-Cores-Transmitem.png">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacalcantara&layout=compact&langs_count=7&theme=dark">
 </div>
+  
+  <hr>
 
 <div style="display: inline-block" align="center">
 <img align="center" alt="Isaac-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
