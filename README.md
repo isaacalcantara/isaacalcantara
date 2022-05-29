@@ -1,15 +1,6 @@
 <H1> Hi <H2> 
  
- <div align="center">
-<img align="center" alt="Isaac-Java" height="30" width="40" padding='500px'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="center" alt="Isaac-PHP" height="30" width="40" padding='200' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-<img align="center" alt="Isaac-Js" height="30" width="40" padding='200' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Isaac-HTML" height="30" width="40" padding='200' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Isaac-CSS" height="30" width="40" padding='200' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-</div>
- 
- <hr>
-  
+
 <div style="display: inline-block">
   <a href="https://github.com/isaacalcantara">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=isaacalcantara&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
