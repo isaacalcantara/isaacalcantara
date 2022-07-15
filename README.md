@@ -7,7 +7,7 @@
     align-items: center;
     justify-content: center;">
   <a href="https://github.com/isaacalcantara">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacalcantara&layout=compact&langs_count=7&theme=dark">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacalcantara&layout=compact&langs_count=7&theme=dark" style = "align: center;">
 </div>
   
 
